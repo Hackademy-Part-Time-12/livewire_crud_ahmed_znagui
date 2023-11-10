@@ -4,5 +4,5 @@
             <h2 class="">Home</h2>
         </div>
     </div>
-    <x-header />
+    {{-- <x-header /> --}}
 </x-layout>

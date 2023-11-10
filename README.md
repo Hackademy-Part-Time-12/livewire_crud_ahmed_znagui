@@ -8,6 +8,3 @@ Una volta creato bisogna dichiarare gli attributi corrisponderano al modello del
 Come nel metodo classico anche in livewire il CSRF token va inserito
 La gestione dei dati nel database non avviene come in precedenza, grazie a livewire è possibile gestirli all'interno del suo componenete
 
-   const message = document.getElementById("message");
-    message.style.transition = "transform 3s";
-    message.style.transform = "translateY(-48px)";
