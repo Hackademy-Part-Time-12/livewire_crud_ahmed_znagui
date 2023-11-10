@@ -9,4 +9,4 @@ setTimeout(function() {
 
    
     
-}, 6000);
+}, 3000);

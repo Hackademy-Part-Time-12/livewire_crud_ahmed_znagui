@@ -108,8 +108,21 @@ form{
 
 .btn{
 	background-color: #b29c73;
-	border-color: #b29c73;
+	width: 80px;
+	
 }
+
+.btnD{
+	background-color: #de937b;
+	color: rgb(158, 51, 51);
+}
+
+.btnD:hover{
+	background-color: rgb(255, 0, 0);
+	color: rgb(163, 164, 164);
+	
+}
+
 .input[type="text"]:hover{
 	
 	border: 5px solid color #b29c73;

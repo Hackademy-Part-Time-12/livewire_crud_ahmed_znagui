@@ -8,3 +8,4 @@ Una volta creato bisogna dichiarare gli attributi corrisponderano al modello del
 Come nel metodo classico anche in livewire il CSRF token va inserito
 La gestione dei dati nel database non avviene come in precedenza, grazie a livewire è possibile gestirli all'interno del suo componenete
 
+<a wire:click="destroy({{ $article }})" class="btn btnD rounded-5" >Delete</a>

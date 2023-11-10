@@ -12,7 +12,7 @@
     
     
     {{ $slot }}
-    <x-header />
+    
     
 </body>
 </html>
